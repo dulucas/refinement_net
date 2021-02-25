@@ -5,7 +5,7 @@ This is an implementation of Box2Seg network proposed in [paper](https://arxiv.o
 ResNet101-FPN
 
 ## Acknowledgement
-Codes based on [TorchSeg](https://github.com/ycszen/TorchSeg)
+Codes based on [TorchSeg](https://github.com/ycszen/TorchSeg) and [Detectron2](https://github.com/facebookresearch/detectron2)
 
 ## Contact
 Feel free to contact me if you have any questions : yuming.du@enpc.fr
